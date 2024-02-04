@@ -1,0 +1,2 @@
+{'username': 'kav', 'password': 'AAaa123@123', 'mobile': '12', 'email': '21', 'age': '12'}
+{'username': 'zyx', 'password': 'AAaa123@', 'mobile': '12', 'email': '22', 'age': '12'}
