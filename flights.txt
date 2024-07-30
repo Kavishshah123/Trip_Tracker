@@ -1,0 +1,81 @@
+ID|Name|Destination|Price|Time
+1|Air India|Manali|5000|09:00 AM
+2|IndiGo|Manali|5500|10:30 AM
+3|SpiceJet|Manali|4800|12:00 PM
+4|Vistara|Manali|5200|02:30 PM
+5|GoAir|Manali|4900|04:00 PM
+6|Air Asia|Manali|5300|06:30 PM
+7|Jet Airways|Manali|5600|08:00 PM
+8|GoIndigo|Manali|4700|09:30 PM
+9|Air India|Goa|6000|09:00 AM
+10|IndiGo|Goa|6500|10:30 AM
+11|SpiceJet|Goa|5800|12:00 PM
+12|Vistara|Goa|6200|02:30 PM
+13|GoAir|Goa|5900|04:00 PM
+14|Air Asia|Goa|6300|06:30 PM
+15|Jet Airways|Goa|6600|08:00 PM
+16|GoIndigo|Goa|5700|09:30 PM
+17|Air India|Jaipur|4800|07:00 AM
+18|IndiGo|Jaipur|5200|08:30 AM
+19|SpiceJet|Jaipur|4500|10:00 AM
+20|Vistara|Jaipur|4900|11:30 AM
+21|GoAir|Jaipur|4600|01:00 PM
+22|Air Asia|Jaipur|5100|02:30 PM
+23|Jet Airways|Jaipur|5400|04:00 PM
+24|GoIndigo|Jaipur|4300|05:30 PM
+25|Air India|Ooty|5500|06:00 AM
+26|IndiGo|Ooty|5900|07:30 AM
+27|SpiceJet|Ooty|5200|09:00 AM
+28|Vistara|Ooty|5600|10:30 AM
+29|GoAir|Ooty|5300|12:00 PM
+30|Air Asia|Ooty|5700|01:30 PM
+31|Jet Airways|Ooty|6000|03:00 PM
+32|GoIndigo|Ooty|5100|04:30 PM
+33|Air India|Mumbai|4800|06:00 AM
+34|IndiGo|Mumbai|5200|07:30 AM
+35|SpiceJet|Mumbai|4500|09:00 AM
+36|Vistara|Mumbai|4900|10:30 AM
+37|GoAir|Mumbai|4600|12:00 PM
+38|Air Asia|Mumbai|5100|01:30 PM
+39|Jet Airways|Mumbai|5400|03:00 PM
+40|GoIndigo|Mumbai|4300|04:30 PM
+41|Air India|Shimla|6000|06:00 AM
+42|IndiGo|Shimla|6400|07:30 AM
+43|SpiceJet|Shimla|5700|09:00 AM
+44|Vistara|Shimla|6100|10:30 AM
+45|GoAir|Shimla|5800|12:00 PM
+46|Air Asia|Shimla|6200|01:30 PM
+47|Jet Airways|Shimla|6500|03:00 PM
+48|GoIndigo|Shimla|5600|04:30 PM
+49|Air India|Kolkata|5300|06:00 AM
+50|IndiGo|Kolkata|5700|07:30 AM
+51|SpiceJet|Kolkata|5000|09:00 AM
+52|Vistara|Kolkata|5400|10:30 AM
+53|GoAir|Kolkata|5100|12:00 PM
+54|Air Asia|Kolkata|5500|01:30 PM
+55|Jet Airways|Kolkata|5800|03:00 PM
+56|GoIndigo|Kolkata|4900|04:30 PM
+57|Air India|Varanasi|4800|06:00 AM
+58|IndiGo|Varanasi|5200|07:30 AM
+59|SpiceJet|Varanasi|4500|09:00 AM
+60|Vistara|Varanasi|4900|10:30 AM
+61|GoAir|Varanasi|4600|12:00 PM
+62|Air Asia|Varanasi|5100|01:30 PM
+63|Jet Airways|Varanasi|5400|03:00 PM
+64|GoIndigo|Varanasi|4300|04:30 PM
+65|Air India|Agra|6000|06:00 AM
+66|IndiGo|Agra|6400|07:30 AM
+67|SpiceJet|Agra|5700|09:00 AM
+68|Vistara|Agra|6100|10:30 AM
+69|GoAir|Agra|5800|12:00 PM
+70|Air Asia|Agra|6200|01:30 PM
+71|Jet Airways|Agra|6500|03:00 PM
+72|GoIndigo|Agra|5600|04:30 PM
+73|Air India|Chennai|5300|06:00 AM
+74|IndiGo|Chennai|5700|07:30 AM
+75|SpiceJet|Chennai|5000|09:00 AM
+76|Vistara|Chennai|5400|10:30 AM
+77|GoAir|Chennai|5100|12:00 PM
+78|Air Asia|Chennai|5500|01:30 PM
+79|Jet Airways|Chennai|5800|03:00 PM
+80|GoIndigo|Chennai|4900|04:30 PM

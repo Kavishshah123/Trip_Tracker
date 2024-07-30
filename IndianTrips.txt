@@ -1,0 +1,10 @@
+1|Manali|9 Nights/10 Days
+2|Goa|4 Nights/5 Days
+3|Jaipur|5 Nights/6 Days
+4|Ooty|7 Nights/8 Days
+5|Mumbai|2 Nights/3 Days
+6|Shimla|6 Nights/7 Days
+7|Kolkata|4 Nights/5 Days
+8|Varanasi|4 Nights/5 Days
+9|Agra|4 Nights/5 Days
+10|Chennai|5 Nights/6 Days
